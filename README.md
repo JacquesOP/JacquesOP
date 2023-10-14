@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacquesOP
 - ✨ I’m interested in Design and Sport
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Web Development for switching careers
 - 👀 See you in couple months to collaborate
 
 <!---
