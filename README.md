@@ -26,7 +26,7 @@
     &nbsp;
   <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
     &nbsp;
-  <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+  <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=009EDB" alt="React Native logo" title="React Native" height="25" />
     &nbsp;
   <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
     &nbsp;
@@ -40,7 +40,21 @@
   <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
     &nbsp;
   <img alt="Mongoose logo" src="https://img.shields.io/badge/Mongoose-282C34?style=flat&logo=mongoose&logoColor=%23F04D35" title="Mongoose" height="25" />
+</div>
 
+<h2 align="center">DataBase | State Managment | Test Frameworks</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+    &nbsp;
+  | &nbsp;
+  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+    &nbsp;
+  | &nbsp;
+  <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
+    &nbsp;
+  <img alt="Mocha logo" src="https://img.shields.io/badge/Mocha-282C34?style=flat&logo=mocha&logoColor=8D6748" title="Mocha" height="25">
+    &nbsp;
 
 </div>
 
