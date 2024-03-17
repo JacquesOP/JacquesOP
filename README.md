@@ -26,6 +26,22 @@
     &nbsp;
   <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
     &nbsp;
+  <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+    &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+    &nbsp;
+</div>
+
+<h2 align="center">Backend</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+    &nbsp;
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
+    &nbsp;
+  <img alt="Mongoose logo" src="https://img.shields.io/badge/Mongoose-282C34?style=flat&logo=mongoose&logoColor=%23F04D35" title="Mongoose" height="25" />
+
+
 </div>
 
 
