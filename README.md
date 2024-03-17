@@ -33,6 +33,8 @@
     &nbsp;
   <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
     &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+    &nbsp;
 </div>
 
 <h2 align="center">Backend</h2>
