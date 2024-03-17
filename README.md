@@ -64,7 +64,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="github stats" />
     &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacquesOP&theme=radical&hide_border=false" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="github stats"/>
 </div>
 
