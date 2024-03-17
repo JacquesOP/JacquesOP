@@ -1,8 +1,3 @@
-<img src="https://github.com/JacquesOP/JacquesOP/assets/144851031/c0a5f0f4-3814-48b7-a4a7-8e54bbd998a5" alt="wallpaper" />
-
-<br><br>
-
-------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align="center" font-size="50px"><img src="https://github.com/JacquesOP/JacquesOP/assets/144851031/31aba6aa-3b18-4795-a4c9-4ada275ce975" width="40" height="40" /> Hello there !</h1>
 
