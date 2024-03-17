@@ -2,11 +2,12 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1 align="center" font-size="50px">Hello there, <img src="https://github.com/JacquesOP/JacquesOP/assets/144851031/baae26d7-31ff-444a-81ad-bcbd7bd7ad37" width="40" height="40" /></h1>
+<h1 align="center" font-size="50px"><img src="https://github.com/JacquesOP/JacquesOP/assets/144851031/31aba6aa-3b18-4795-a4c9-4ada275ce975" width="40" height="40" /> Hello there !</h1>
 
-
-# 💫 About Me:
-I'm a Full-Stack developer with a passion for aesthetic interfaces.<br>My main interest are Web and Mobile development.<br>Aside from programming, I have my focus on UI/UX design.<br>In my spare time, I enjoy working out and spending time with my family 
+<h1 align="center">💫 About Me : </h1>
+<P align="center">
+  I'm a Full-Stack developer with a passion for aesthetic interfaces.<br>My main interest are Web and Mobile development.<br>Aside from programming, I have my focus on UI/UX design.<br>In my spare time, I enjoy working out and spending time with my family 
+</P>
 
 
 ## 🌐 Socials:
