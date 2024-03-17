@@ -1,13 +1,16 @@
-![john-fowler-aaIN3y2zcMQ-unsplash - Copie](https://github.com/JacquesOP/JacquesOP/assets/144851031/c0a5f0f4-3814-48b7-a4a7-8e54bbd998a5)
+<img src="https://github.com/JacquesOP/JacquesOP/assets/144851031/c0a5f0f4-3814-48b7-a4a7-8e54bbd998a5" alt="wallpaper" />
+
+<br><br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align="center" font-size="50px"><img src="https://github.com/JacquesOP/JacquesOP/assets/144851031/31aba6aa-3b18-4795-a4c9-4ada275ce975" width="40" height="40" /> Hello there !</h1>
 
 <h1 align="center">💫 My name is Jacques Prince : </h1>
-<P align="center">
+<p align="center">
   I'm a Full-Stack developer with a passion for aesthetic interfaces.<br>My main interest are Web and Mobile development.<br>Aside from programming, I have my focus on UI/UX design.<br>In my spare time, I enjoy working out and spending time with my family ☺️
-</P>
+</p>
+<br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -58,10 +61,12 @@
 </div>
 <br>
 
------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="github stats" />
+    &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacquesOP&theme=radical&hide_border=false" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="github stats"/>
 </div>
