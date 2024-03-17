@@ -55,23 +55,16 @@
     &nbsp;
   <img alt="Mocha logo" src="https://img.shields.io/badge/Mocha-282C34?style=flat&logo=mocha&logoColor=8D6748" title="Mocha" height="25">
     &nbsp;
-
 </div>
+<br>
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JacquesOP&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JacquesOP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JacquesOP&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<h1 align="center">📊 GitHub Stats:</h1>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacquesOP&theme=radical&hide_border=false" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="github stats"/>
+</div>
 
 
 ---
