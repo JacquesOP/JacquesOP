@@ -67,6 +67,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="github stats"/>
 </div>
 
+---
+<div align="center">
+  <img src="https://github.com/JacquesOP/JacquesOP/assets/144851031/464fba6c-4870-484e-bfa1-2c788bc0a1e1" alt="contributions"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JacquesOP&icon=0&color=0)](https://visitcount.itsvg.in)
