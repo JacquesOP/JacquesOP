@@ -68,11 +68,6 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://github.com/JacquesOP/JacquesOP/assets/144851031/464fba6c-4870-484e-bfa1-2c788bc0a1e1" alt="contributions"/>
-</div>
-
----
 [![](https://visitcount.itsvg.in/api?id=JacquesOP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
