@@ -59,15 +59,6 @@
 <br>
 
 ---
-
-<h1 align="center">📊 GitHub Stats:</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="github stats" />
-    &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesOP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="github stats"/>
-</div>
-
----
 [![](https://visitcount.itsvg.in/api?id=JacquesOP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
